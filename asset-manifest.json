@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pokedex/static/css/main.3660aba1.css",
+    "main.js": "/pokedex/static/js/main.c0592c7c.js",
+    "static/js/453.ed3810f9.chunk.js": "/pokedex/static/js/453.ed3810f9.chunk.js",
+    "static/media/backimage.png": "/pokedex/static/media/backimage.66feb8cca78131e76fc2.png",
+    "index.html": "/pokedex/index.html",
+    "main.3660aba1.css.map": "/pokedex/static/css/main.3660aba1.css.map",
+    "main.c0592c7c.js.map": "/pokedex/static/js/main.c0592c7c.js.map",
+    "453.ed3810f9.chunk.js.map": "/pokedex/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3660aba1.css",
+    "static/js/main.c0592c7c.js"
+  ]
+}
